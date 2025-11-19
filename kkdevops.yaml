@@ -1,4 +1,6 @@
-apiversion: v10
+
+apiversion: v9
+>>>>>>> f2
 kind: Deployement
 metadata:
 Spec: 
